@@ -3,7 +3,8 @@
 # 🌍 Global Sustainability Power BI Dashboard
 
 An interactive Power BI report analyzing worldwide progress in sustainable energy, CO₂ emissions reduction, access to clean energy, and green investments across countries and years.
-Golbal-Sustainable-Energy./Home.JPG
+
+![image alt](https://github.com/Moctr/Global-Sustainable-Energy/blob/724ddf4a06fdc84fec4c962b99727c4692911641/Home.JPG)
 
 ## 📚 Table of Contents
 
