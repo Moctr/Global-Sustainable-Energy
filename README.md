@@ -170,14 +170,13 @@ Also includes metrics for:
 
 ## 12. Conclusions & Recommendations
 
-- 📌 Maintain consistent relationships across new data updates  
-- 🧮 Validate DAX calculations after model changes  
-- 🚀 Reduce unnecessary steps in Power Query for performance  
-- 🧪 Periodically review accuracy and alignment with UN SDGs  
-- 💬 Expand with additional sustainability dimensions (e.g., water use, waste)
+-  Maintain consistent relationships across new data updates  
+-  Validate DAX calculations after model changes  
+-  Reduce unnecessary steps in Power Query for performance  
+-  Periodically review accuracy and alignment with UN SDGs  
+-  Expand with additional sustainability dimensions (e.g., water use, waste)
 
 ---
 
-> 📅 Created by **[Your Name]**  
-> 📍 Last Updated: April 2025  
-> 🔗 Contact: [email@example.com] | GitHub | LinkedIn
+>  Created by Mohamed Zakarya 
+> Last Updated: April 2025 
