@@ -6,6 +6,8 @@ An interactive Power BI report analyzing worldwide progress in sustainable energ
 
 ![image alt](https://github.com/Moctr/Global-Sustainable-Energy/blob/724ddf4a06fdc84fec4c962b99727c4692911641/Home.JPG)
 
+![image alt](https://github.com/Moctr/Global-Sustainable-Energy/blob/1e7064ce80cd93896125a7eb7a5ee6901d271cae/page2.JPG)
+
 ## 📚 Table of Contents
 
 1. [Introduction](#1-introduction)  
