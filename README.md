@@ -4,8 +4,7 @@
 
 An interactive Power BI report analyzing worldwide progress in sustainable energy, CO₂ emissions reduction, access to clean energy, and green investments across countries and years.
 
-![Alt Text](relative/or/absolute/path/to/Home.png)
-
+![Alt Text]Home.JPG
 
 ---
 
